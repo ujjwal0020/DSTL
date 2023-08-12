@@ -4,6 +4,7 @@ int main()
 {
 int a[50],b[50],c[50],i,s1,s2,j,k;
 printf("Enter how many elements in set 1\n");
+
 scanf("%d",&s1);
 printf("Enter how many elements in set 2\n");
 scanf("%d",&s2);
